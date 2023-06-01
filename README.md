@@ -25,7 +25,7 @@
 <br>
  
 <h2> :man_technologist: About me</h2>
-Learning web development at [Runtime.kz](https://www.instagram.com/runtime.kz/)</br>
+Learning web development at https://www.instagram.com/runtime.kz/</br>
 Graduated from the bachelor's and master's programs at Eurasian national university named after L.N.Gumilyev</br>
 English level B2
 </br></br>
